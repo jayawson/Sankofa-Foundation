@@ -40,6 +40,8 @@ body {
   justify-content: center;
 }
 .somethinglogo{
+  height: 75px;
+  width: 75px;
   padding: 20px;
   background-color: #161819;
   color: aliceblue;
