@@ -30,6 +30,7 @@ body {
   background-color: #918483;
   display: flex;
   justify-content:space-between;
+  flex-direction: row;
 }
 .sankofa-logo{
   width: 100px;
