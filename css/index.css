@@ -2,7 +2,7 @@
   --bg-color: #161819;
   --bg-deep: #0d1011;
   --surface-color: #252728;
-  --primary-color: #ff5f52;
+  --primary-color: #dcd3d2;
 }
 
 * {
@@ -21,13 +21,15 @@ body {
 }
 
 .main-container {
-  width: 100%;
+  width: 80%;
  /* height: 100%;
   display: block;*/
   background-color: beige;
 }
 .navigation-bar{
   background-color: #918483;
+  display: flex;
+  justify-content:space-between;
 }
 .menu-list {
   height: 50px;
@@ -40,7 +42,7 @@ body {
 }
 .menu-list li {
   background-color: aqua;
-  color: #161819;
+  color: #bec7cc;
   list-style: none;
   cursor: pointer;
 }
@@ -49,7 +51,4 @@ body {
   color: aliceblue;
 }
 
-footer {
-  height: 200px;
-  background: hsl(0, 80%, 48%);
-}
+
