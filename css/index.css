@@ -31,6 +31,10 @@ body {
   display: flex;
   justify-content:space-between;
 }
+.sankofa-logo{
+  width: 80%;
+  height: 100px;
+}
 .menu-list {
   height: 50px;
   width: 80%;
