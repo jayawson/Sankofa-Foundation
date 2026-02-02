@@ -21,29 +21,13 @@ body {
 }
 
 .main-container {
-  width: 80%;
-  height: 100%;
-  display: block;
+  width: 100%;
+ /* height: 100%;
+  display: block;*/
+  background-color: beige;
 }
-.banner {
-  height: 20vh;
-  background-color: aqua;
-  display: flex;
-}
-.company-logo {
-  display: flex;
-  height: 100px;
-  width: 20%;
-  height: 75px;
-  width: 75px;
-  background-color: azure;
-  align-items: center;
-  justify-content: center;
-}
-.somethinglogo {
-  padding: 20px;
-  background-color: #161819;
-  color: aliceblue;
+.navigation-bar{
+  background-color: #918483;
 }
 .menu-list {
   height: 50px;
